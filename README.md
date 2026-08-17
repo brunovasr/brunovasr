@@ -139,33 +139,9 @@
   <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&ring=00f7ff&fire=8a2be2&currStreakLabel=00f7ff&sideLabels=ffffff&dates=777777" />
 </p>
 
-### 📡 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=00000000&color=00f7ff&line=8a2be2&point=00ff9d&area=true&hide_border=true" width="100%"/>
-</p>
-
 ---
 
-## `07` // TROPHY ROOM
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
-</p>
-
----
-
-## `08` // CONTRIBUTION PROTOCOL
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-> **SYSTEM NOTE:** Configure the Snake Action in your repository to generate `github-contribution-grid-snake.svg`.
-
----
-
-## `09` // CONNECT TO NETWORK
+## `07` // CONNECT TO NETWORK
 
 <p align="center">
   <a href="https://github.com/brunovasr">
@@ -178,7 +154,7 @@
 
 ---
 
-## `10` // SYSTEM FOOTER
+## `08` // SYSTEM FOOTER
 
 <p align="center">
 
