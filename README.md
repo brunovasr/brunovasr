@@ -104,7 +104,7 @@
 ## `05` // CURRENT OBJECTIVES
 
 ```console
-┌──[ BRUNO@AI-LAB ]──[ ~/objectives ]
+┌──[ BRUNO_AI-LAB ]──[ ~/objectives ]
 └─$ ./current_mission.sh
 
 [████████████████████] 100%  SYSTEM INITIALIZED
@@ -185,9 +185,9 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║                 SYSTEM STATUS: OPERATIONAL                  ║
+║                 SYSTEM STATUS: OPERATIONAL                   ║
 ║                                                              ║
-║     BUILD SOMETHING. BREAK SOMETHING. LEARN. REPEAT.        ║
+║     BUILD SOMETHING. BREAK SOMETHING. LEARN. REPEAT.         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
