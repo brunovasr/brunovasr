@@ -46,20 +46,18 @@
 ### ⚙️ Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,java,cpp,git,github,docker,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,git,github,docker&perline=7" />
 </p>
 
 ### 🧠 AI & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python&perline=6" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-00F7FF?style=for-the-badge&logo=openai&logoColor=000"/>
   <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=googlebard&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-00FF9D?style=for-the-badge&logo=opencv&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Automation-FF00AA?style=for-the-badge&logo=robotframework&logoColor=fff"/>
 </p>
 
 ---
@@ -71,8 +69,8 @@
 | 🧩 **Development**  | VS Code · Git · GitHub · Docker   |
 | 🖥️ **Environment**  | Windows · Terminal                |
 | 🤖 **AI**           | LLMs · Computer Vision · AI APIs  |
-| 🌐 **Web**          | React · Node.js · REST APIs       |
-| 🗄️ **Data**         | SQL · Databases · Data Processing |
+| 🌐 **Web**          | Node.js · REST APIs               |
+| 🗄️ **Data**         | Databases · Data Processing       |
 | 🔧 **Workflow**     | Git · CI/CD · Automation          |
 
 ---
@@ -101,30 +99,7 @@
 
 ---
 
-## `05` // CURRENT OBJECTIVES
-
-```console
-┌──[ BRUNO_AI-LAB ]──[ ~/objectives ]
-└─$ ./current_mission.sh
-
-[████████████████████] 100%  SYSTEM INITIALIZED
-
-✓ Deepen Artificial Intelligence
-✓ Build intelligent automation systems
-✓ Improve software architecture
-✓ Explore modern web technologies
-✓ Create scalable applications
-✓ Learn new frameworks and tools
-
-> NEXT_TARGET:
-  [■■■■■■■■■■■■■■□□□□] 80%
-
-  BUILD → TEST → OPTIMIZE → DEPLOY → REPEAT
-```
-
----
-
-## `06` // GITHUB TELEMETRY
+## `05` // GITHUB TELEMETRY
 
 ### 📊 System Statistics
 
@@ -141,7 +116,7 @@
 
 ---
 
-## `07` // CONNECT TO NETWORK
+## `06` // CONNECT TO NETWORK
 
 <p align="center">
   <a href="https://github.com/brunovasr">
@@ -154,7 +129,7 @@
 
 ---
 
-## `08` // SYSTEM FOOTER
+## `07` // SYSTEM FOOTER
 
 <p align="center">
 
