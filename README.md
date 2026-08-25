@@ -46,13 +46,13 @@
 ### ⚙️ Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,git,github,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,docker&perline=7" />
 </p>
 
 ### 🧠 AI & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,ts&perline=6" />
 </p>
 
 <p align="center">
@@ -69,8 +69,6 @@
 | 🧩 **Development**  | VS Code · Git · GitHub · Docker   |
 | 🖥️ **Environment**  | Windows · Terminal                |
 | 🤖 **AI**           | LLMs · Computer Vision · AI APIs  |
-| 🌐 **Web**          | Node.js · REST APIs               |
-| 🗄️ **Data**         | Databases · Data Processing       |
 | 🔧 **Workflow**     | Git · CI/CD · Automation          |
 
 ---
