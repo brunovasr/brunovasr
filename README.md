@@ -1,4 +1,4 @@
-# ⚡ `SYSTEM ONLINE` // BRUNO ROCHA
+# ⚡ `SYSTEMA ONLINE` // BRUNO ROCHA
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f1f,100:00f7ff&height=220&section=header&text=BRUNO%20ROCHA&fontSize=52&fontColor=00f7ff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20SOFTWARE%20%7C%20AUTOMATION%20%7C%20CYBER%20SYSTEMS&descAlignY=60&descSize=16&descColor=ffffff" width="100%"/>
@@ -27,7 +27,6 @@
 │  > Construindo aplicações modernas e sistemas inteligentes   │
 │  > Transformando problemas complexos em soluções simples     │
 │                                                              │
-│  SYSTEM PHILOSOPHY                                           │
 │  ─────────────────────────────────────────────────────────   │
 │  "Code is not just instructions.                             │
 │   It's the architecture of an idea."                         │
@@ -43,7 +42,7 @@
 
 ## `02` // TECH STACK
 
-### ⚙️ Core Technologies
+### ⚙️ Tecnologias principais
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,docker&perline=7" />
@@ -73,7 +72,7 @@
 
 ---
 
-## `04` // PROJECT MATRIX
+## `04` // PROJETO MATRIX
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO/PROJETO-1">
@@ -97,24 +96,8 @@
 
 ---
 
-## `05` // GITHUB TELEMETRY
 
-### 📊 System Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=00f7ff&icon_color=8a2be2&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=00f7ff&text_color=ffffff&langs_count=8" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&ring=00f7ff&fire=8a2be2&currStreakLabel=00f7ff&sideLabels=ffffff&dates=777777" />
-</p>
-
----
-
-## `06` // CONNECT TO NETWORK
+## `05` // CONNECT TO NETWORK
 
 <p align="center">
   <a href="https://github.com/brunovasr">
@@ -127,7 +110,7 @@
 
 ---
 
-## `07` // SYSTEM FOOTER
+## `06` // SYSTEM FOOTER
 
 <p align="center">
 
